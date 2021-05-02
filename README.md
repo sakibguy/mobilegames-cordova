@@ -8,3 +8,5 @@
 > gamename.gif
 ## GAME 5: WORDSEARCH
 > gamename.gif
+## GAME 6: PARCHISLUDO
+> gamename.gif
