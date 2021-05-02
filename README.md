@@ -2,3 +2,5 @@
 > gamename.gif
 ## GAME 2: CATRESCUE
 > gamename.gif
+## GAME 3: BLOCKPUZZLE
+> gamename.gif
