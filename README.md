@@ -4,3 +4,5 @@
 > gamename.gif
 ## GAME 3: BLOCKPUZZLE
 > gamename.gif
+## GAME 4: MAGICFOREST
+> gamename.gif
