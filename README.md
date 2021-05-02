@@ -1,2 +1,4 @@
 ## GAME 1: CHECKERS 
-gamename.gif
+> gamename.gif
+## GAME 2: CATRESCUE
+> gamename.gif
