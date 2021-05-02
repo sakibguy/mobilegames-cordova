@@ -10,3 +10,5 @@
 > gamename.gif
 ## GAME 6: PARCHISLUDO
 > gamename.gif
+## GAME 7: KNIFEMASTER
+> gamename.gif
