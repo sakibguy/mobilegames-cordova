@@ -6,3 +6,5 @@
 > gamename.gif
 ## GAME 4: MAGICFOREST
 > gamename.gif
+## GAME 5: WORDSEARCH
+> gamename.gif
