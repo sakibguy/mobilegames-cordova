@@ -1,2 +1,2 @@
-## GAME 1: NAME 
+## GAME 1: CHECKERS 
 gamename.gif
